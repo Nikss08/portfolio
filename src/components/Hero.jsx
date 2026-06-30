@@ -1,5 +1,4 @@
 import { profile } from "../data/content";
-import Resume from "../../public/nikunj_cv.pdf";
 
 export default function Hero() {
   return (
